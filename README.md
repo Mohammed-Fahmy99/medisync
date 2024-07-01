@@ -4,6 +4,24 @@ MediSync is a comprehensive Medical CRM designed to manage clients, doctors, app
 
 ## Screenshots
 
+![asd](./images/upcoming-appointments.png)
+
+![Appointments](./images/Appointments.png)
+![Calendar](./images/Calendar.png)
+![cancelled-appointments](./images/cancelled-appointments.png)
+![Clients](./images/Clients.png)
+![Dashboard](./images/Dashboard.png)
+![Doctors](./images/Doctors.png)
+![FAQ](./images/FAQ.png)
+![filters](./images/filters.png)
+![foundation-settings](./images/foundation-settings.png)
+![logs](./images/logs.png)
+![MediSync-Central](./images/MediSync-Central.png)
+![products](./images/products.png)
+![Roles](./images/Roles.png)
+![services](./images/services.png)
+![upcoming-appointments](./images/upcoming-appointments.png)
+
 ### 1. Filter Functionality
 This screenshot shows the filter functionality in the MediSync application. Users can filter clients based on various criteria such as email and first name. The filter options include conditions like "contains" and "begins with," making it easy to search for specific client information.
 
@@ -27,12 +45,6 @@ This screenshot shows the Services page in the MediSync application. It lists av
 - CRUD Operations: Create, read, update, and delete operations for every entity.
 - Quotation Feature: Generate quotations using a dynamic form.
 
-## Installation
 
-To get started with MediSync, clone the repository and follow the installation instructions.
 
-```bash
-git clone https://github.com/Mohammed-Fahmy99/medisync.git
-cd medisync
-npm install
-npm start
+
