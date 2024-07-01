@@ -3,7 +3,7 @@
 MediSync is a comprehensive Medical CRM designed to manage clients, doctors, appointments, users, roles, and permissions. The application includes functionalities for filtering client data, managing client information, tracking medical product inventory, and handling various medical services. The goal of MediSync is to streamline administrative tasks and improve efficiency in medical practice management.
 
 ## Screenshots
-(./images/Calendar - MediSync Central)
+![asd](./images/Calendar - MediSync Central)
 
 ### 1. Filter Functionality
 This screenshot shows the filter functionality in the MediSync application. Users can filter clients based on various criteria such as email and first name. The filter options include conditions like "contains" and "begins with," making it easy to search for specific client information.
