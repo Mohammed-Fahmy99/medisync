@@ -32,7 +32,7 @@ This screenshot shows the Services page in the MediSync application. It lists av
 To get started with MediSync, clone the repository and follow the installation instructions.
 
 ```bash
-git clone https://github.com/yourusername/medisync.git
+git clone https://github.com/Mohammed-Fahmy99/medisync.git
 cd medisync
 npm install
 npm start
